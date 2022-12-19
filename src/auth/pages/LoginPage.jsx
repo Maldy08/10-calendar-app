@@ -46,7 +46,7 @@ const registerSubmit = ( event ) => {
         return ;
     }
 
-    startRegister({ name: registerName, email: registerEmail, name: registerName });
+    startRegister({ name: registerName, email: registerEmail, password: registerPassword });
     
 
 
